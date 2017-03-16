@@ -1,4 +1,4 @@
-angular.module('app').controller("MainController", function(){
+angular.module('ShowTrackerApp').controller("MainController", function(){
     var vm = this;
     vm.title = 'AngularJS Show Tracker';
     vm.searchInput = '';
